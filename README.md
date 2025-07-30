@@ -134,8 +134,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkumail-dev&show_icons=true&locale=en" alt="mrkumail-dev" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkumail-dev" alt="GitHub Streak Stats" />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=mrkumail-dev" alt="GitHub Streak Stats" />
 </p>
 
 
