@@ -135,7 +135,7 @@
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=mrkumail-dev" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mrkumail-dev&theme=default&cache_bust=3" alt="GitHub Streak Stats" />
 </p>
 
 
