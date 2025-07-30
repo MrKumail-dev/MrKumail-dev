@@ -20,6 +20,8 @@
 
 <br> <!-- spacing -->
 
+---
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -31,7 +33,7 @@
   </a>
 </p>
 
-<br> <!-- spacing -->
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -124,6 +126,8 @@
 </p>
 
 <br> <!-- spacing -->
+
+---
 
 <!-- GitHub Stats -->
 
