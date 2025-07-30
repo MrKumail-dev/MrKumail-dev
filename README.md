@@ -134,8 +134,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkumail-dev&show_icons=true&locale=en" alt="mrkumail-dev" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkumail-dev&" alt="mrkumail-dev" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkumail-dev" alt="GitHub Streak Stats" />
 </p>
+
 
 > *"Making DevOps simple with practical know-how. Building the future through automation, one pipeline at a time!"*
