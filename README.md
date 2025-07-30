@@ -8,7 +8,7 @@
 
 <br> <!-- spacing -->
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*pvyg35Epezjv5T6nSjFkZw.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrkumail-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mrkumail-dev" />
